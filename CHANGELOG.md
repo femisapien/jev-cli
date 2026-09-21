@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/shaharia-lab/jev-cli/compare/v0.1.1...v0.1.2) (2026-09-21)
+
+
+### Bug Fixes
+
+* **tests:** retry the ETXTBSY race in the background-update secret-leak test ([#103](https://github.com/shaharia-lab/jev-cli/issues/103)) ([8b048a6](https://github.com/shaharia-lab/jev-cli/commit/8b048a6d68092144f72afc57158e50031ba41fd4))
+
 ## [0.1.1](https://github.com/shaharia-lab/jev-cli/compare/v0.1.0...v0.1.1) (2026-09-20)
 
 
